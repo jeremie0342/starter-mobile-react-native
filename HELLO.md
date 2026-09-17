@@ -37,3 +37,6 @@ Skilluv détectera automatiquement ta PR et débloquera ton premier badge.
 ## My introduction / Ma présentation
 
 <!-- Add your line here / Ajoute ta ligne ici ↓ -->
+
+
+HEEELOOOOOWWWW, Je m'appelle Zardonis Jérémie ZITTI, développeur web et mobile, je suis en test. A la prochaine.
