@@ -2,6 +2,8 @@
 
 Welcome to your first Skilluv project!
 
+You are here because your trade ships to a phone - *mobile*, whether you write it or design it.
+
 Edit this file by adding a line under `## My introduction` with:
 
 - Your first name or handle
@@ -17,6 +19,8 @@ Skilluv will automatically detect your PR and unlock your first badge.
 ## Bonjour Skilluv (français)
 
 Bienvenue dans ton premier projet Skilluv !
+
+Tu es ici parce que ton métier livre sur téléphone - *mobile*, que tu l'écrives ou que tu le conçoives.
 
 Modifie ce fichier en ajoutant une ligne sous `## Ma présentation` avec :
 
