@@ -2,7 +2,10 @@
 
 Welcome to your first Skilluv project!
 
+You are here because your trade ships to a phone - *mobile*, whether you write it or design it.
+
 Edit this file by adding a line under `## My introduction` with:
+
 - Your first name or handle
 - Your city (optional)
 - What you want to learn
@@ -17,7 +20,10 @@ Skilluv will automatically detect your PR and unlock your first badge.
 
 Bienvenue dans ton premier projet Skilluv !
 
+Tu es ici parce que ton métier livre sur téléphone - *mobile*, que tu l'écrives ou que tu le conçoives.
+
 Modifie ce fichier en ajoutant une ligne sous `## Ma présentation` avec :
+
 - Ton prénom ou pseudo
 - Ta ville (facultatif)
 - Ce que tu veux apprendre
@@ -31,3 +37,6 @@ Skilluv détectera automatiquement ta PR et débloquera ton premier badge.
 ## My introduction / Ma présentation
 
 <!-- Add your line here / Ajoute ta ligne ici ↓ -->
+
+
+HEEELOOOOOWWWW, Je m'appelle Zardonis Jérémie ZITTI, développeur web et mobile, je suis en test. A la prochaine.
